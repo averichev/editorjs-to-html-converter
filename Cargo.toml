@@ -1,0 +1,13 @@
+[package]
+name = "editorjs-to-html-converter"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+serde = { version = "1.0.147", features = ["derive"] }
+serde_json = "1.0.89"
+regex = "1.*"
+typetag = "0.*"
+html_parser = "0.6.3"
