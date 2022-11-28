@@ -5,7 +5,7 @@ edition = "2021"
 description = "Convert Editor.js json to raw html"
 license = "MIT OR Apache-2.0"
 authors = ["Alexander Averichev <averichev@yandex.ru>"]
-keywords = ["editorjs", "editor.js", "html", "converter"]
+keywords = ["editorjs", "html", "converter"]
 repository = "https://github.com/averichev/editorjs-to-html-converter"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
